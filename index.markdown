@@ -1,0 +1,8 @@
+---
+layout: default
+title: Daniel Kocher &mdash; Postdoctoral Researcher, Computational Systems Group (Department of Computer Sciences, University of Salzburg)
+---
+
+Welcome, my name is Daniel Kocher and I am a Postdoctoral researcher with <a href="https://ckirsch.github.io">Christoph Kirsch</a> and <a href="http://cs.uni-salzburg.at/~anas/index.html">Ana Sokolova</a> as part of the Computational Systems Group at the <a href="https://www.plus.ac.at/fachbereich-computerwissenschaften/">Department of Computer Sciences</a> at the the <a href="https://www.plus.ac.at">University of Salzburg</a>.
+<br /><br />
+I pursued my Ph.D. in the area of similarity search in database systems with <a href="https://dbresearch.uni-salzburg.at/people/augsten">Nikolaus Augsten</a> as my advisor (<a href="https://dbresearch.uni-salzburg.at">Database Research Group</a>, <a href="https://www.plus.ac.at/fachbereich-computerwissenschaften/">Department of Computer Sciences</a>, <a href="https://www.plus.ac.at">University of Salzburg</a>). In my cumulative dissertation &ndash; titled <em>"Scalable Similarity Queries over Complex Data"</em> &ndash;, I introduce novel efficient algorithms and data structures for top-<em>k</em> subtree similarity queries and density-based clustering for sets. Naturally, my research revolve around similarity search, efficient data structures, query processing, top-<em>k</em> queries, clustering techniques, and main-memory database systems. Furthermore, I am interested in performance and systems engineering, compilers, programming languages, and modern hardware (e.g., multi-core architectures and remote direct memory access).
