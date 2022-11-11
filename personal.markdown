@@ -4,7 +4,7 @@ title: Daniel Kocher - Personal
 permalink: /personal/
 ---
 
-Personal
+# Personal
 
 ## Paramedic
 
