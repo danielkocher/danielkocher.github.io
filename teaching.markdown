@@ -58,7 +58,7 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 
 ### Bachelor's Theses
 
-- _A Practical Introducation to RDMA Programming._<br />
+- _A Practical Introduction to RDMA Programming._<br />
   <small>Andreas Schranzhofer. University of Salzburg, 2022.</small>
 - _Implications of Modern Networks on Data Structure Design &mdash; Remote Procedure Calls._<br />
   <small>Emanuel Petter. University of Salzburg, 2021.</small>
