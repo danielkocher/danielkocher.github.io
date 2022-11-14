@@ -60,7 +60,7 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 
 - _A Practical Introducation to RDMA Programming._<br />
   <small>Andreas Schranzhofer. University of Salzburg, 2022.</small>
-- _Implications of Modern Networks on Daa Structure Design &mdash; Remote Procedure Calls._<br />
+- _Implications of Modern Networks on Data Structure Design &mdash; Remote Procedure Calls._<br />
   <small>Emanuel Petter. University of Salzburg, 2021.</small>
 - _An In-Depth Study of Selectable Signatures for Set Similarity Joins._<br />
   <small>Daniel Ulrich Schmitt. University of Salzburg, 2020.</small>
