@@ -43,6 +43,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   
   <p><strong>
   <a href="/publications/">Publications</a><br /><br />
+  <a href="/teaching/">Teaching</a><br />
   <a href="/personal/">Personal</a>
   </strong></p>
 baseurl: "" # the subpath of your site, e.g. /blog
