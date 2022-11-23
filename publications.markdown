@@ -10,7 +10,8 @@ A complete list of my publications can be found on my [Google Scholar](https://s
 
 ## Selected Conference Papers
 
-- Widmoser, Kocher, Augsten, and Mann. _MetricJoin: Leveraging Metric Properties for Robust Exact Set Similarity Joins_. ICDE 2023. To Appear.
+- Widmoser, Kocher, Augsten, and Mann. _MetricJoin: Leveraging Metric Properties for Robust Exact Set Similarity Joins_. IEEE ICDE 2023. Accepted.
+- Thiel, Kocher, Augsten, Hütter, Mann, and Schmitt. _FINEX: A Fast Index for Exact & Flexible Density-Based Clustering_. ACM SIGMOD 2023. Accepted.
 - Kocher, Augsten, and Mann. _Scaling Density-Based Clustering to Large Collections of Sets_. EDBT 2021. [DOI (Open Access)](https://dx.doi.org/10.5441/002/edbt.2021.11).
 - Kocher and Augsten. _A Scalable Index for Top-<em>k</em> Subtree Similarity Queries_. ACM SIGMOD 2019. [DOI (Open Access)](https://dx.doi.org/10.1145/3299869.3319892).
 - Kocher, Schwarz, and Uhl. _Empirical Evaluation of LBP-Extension Features for Finger Vein Spoofing Detection_. BIOSIG 2016. [DOI](https://dx.doi.org/10.1109/BIOSIG.2016.7736921).
