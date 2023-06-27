@@ -15,9 +15,9 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 ### Lectures (with Labs)
 
 - _Distributed Information Management._ Designer and Lecturer.<br />
-  <small>Undergraduate, University of Salzburg (Course No. 512.044). Spring 2021, Spring 2022.</small>
+  <small>Undergraduate, University of Salzburg (Course No. 512.044). Spring 2021, Spring 2022, Spring 2023.</small>
 - _Systems Engineering._ Lecturer.<br />
-  <small>Undergraduate, University of Salzburg (Course No. 511.047). Fall 2021, Fall 2022.</small>
+  <small>Undergraduate, University of Salzburg (Course No. 511.047). Fall 2021, Fall 2022, Fall 2023.</small>
 - _Principles of Systems Engineering._ Lecturer.<br />
   <small>Graduate, Mohammed Polytechnic University (_Data, Networks, and Algorithms (DNA)_ program). Spring 2022, Spring 2023.</small>
 
@@ -30,7 +30,7 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 - _Formal Systems._ Instructor.<br />
   <small>Undergraduate, University of Salzburg (Course No. 511.002). Fall 2021.</small>
 - _Introduction to Programming._ Instructor.<br />
-  <small>Undergraduate, University of Salzburg (Course No. 511.053). Fall 2022.</small>
+  <small>Undergraduate, University of Salzburg (Course No. 511.053). Fall 2022, Fall 2023.</small>
 - _Non-Standard Database Systems._ Instructor.<br />
   <small>Graduate, University of Salzburg (Course No. 911.428). Spring 2018, Spring 2019.</small>
 - _Similarity Search in Large Databases._ Instructor.<br />
@@ -45,8 +45,10 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 
 ### Master's Theses
 
+- _Predicting the Next Word in a Search Query Using LLMs._<br />
+  <small>Konrad Medicus. University of Salzburg, Joint work with Nosto Solutions Oy, Ongoing (since 2023).</small>
 - _Clustering of JSON Documents._<br />
-  <small>Matthias Paulitsch. University of Salzburg, Ongoing (since 2021).</small>
+  <small>Matthias Paulitsch. University of Salzburg, 2023.</small>
 - _An SQL Compiler for a Process Mining Engine._<br />
   <small>Verena Lorber. University of Salzburg, 2022.</small>
 - _A Metric Solution for Large-Scale Set Similarity Joins._<br />
@@ -58,6 +60,8 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 
 ### Bachelor's Theses
 
+- _Design and Implementation of the Chip-8 Architecture._<br />
+  <small>Michael Lenort. University of Salzburg, Ongoing (since 2023).</small>
 - _A Practical Introduction to RDMA Programming._<br />
   <small>Andreas Schranzhofer. University of Salzburg, 2022.</small>
 - _Implications of Modern Networks on Data Structure Design &mdash; Remote Procedure Calls._<br />
