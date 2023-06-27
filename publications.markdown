@@ -12,7 +12,7 @@ A complete list of my publications can be found on my [Google Scholar](https://s
 
 - Schmitt, Kocher, Augsten, Mann, Miller. _A Two-Level Signature Scheme for Stable Set Similarity Joins_. PVLDB 2023. Accepted.
 - Widmoser, Kocher, Augsten, and Mann. _MetricJoin: Leveraging Metric Properties for Robust Exact Set Similarity Joins_. IEEE ICDE 2023. Accepted.
-- Thiel, Kocher, Augsten, Hütter, Mann, and Schmitt. _FINEX: A Fast Index for Exact & Flexible Density-Based Clustering_. ACM SIGMOD 2023. [DOI (Open Access](https://dx.doi.org/10.1145/3588925), [Extended Version (arXiv)](https://dx.doi.org/10.48550/arXiv.2304.04817).
+- Thiel, Kocher, Augsten, Hütter, Mann, and Schmitt. _FINEX: A Fast Index for Exact & Flexible Density-Based Clustering_. ACM SIGMOD 2023. [DOI (Open Access)](https://dx.doi.org/10.1145/3588925), [Extended Version (arXiv)](https://dx.doi.org/10.48550/arXiv.2304.04817).
 - Hütter and Kocher. _Feedforward-Aided Course Designs for Similarity Search_. DataEd 2023. [DOI (Open Access)](https://dx.doi.org/10.1145/3596673.3596974).
 - Kocher, Augsten, and Mann. _Scaling Density-Based Clustering to Large Collections of Sets_. EDBT 2021. [DOI (Open Access)](https://dx.doi.org/10.5441/002/edbt.2021.11).
 - Kocher and Augsten. _A Scalable Index for Top-<em>k</em> Subtree Similarity Queries_. ACM SIGMOD 2019. [DOI (Open Access)](https://dx.doi.org/10.1145/3299869.3319892).
