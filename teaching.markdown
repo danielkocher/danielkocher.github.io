@@ -15,7 +15,7 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 ### Lectures (with Labs)
 
 - _Distributed Information Management._ Designer and Lecturer.<br />
-  <small>Undergraduate, University of Salzburg (Course No. 512.044). Spring 2021, Spring 2022, Spring 2023.</small>
+  <small>Undergraduate, University of Salzburg (Course No. 512.044). Spring 2021, Spring 2022, Spring 2023, Spring 2024.</small>
 - _Systems Engineering._ Lecturer.<br />
   <small>Undergraduate, University of Salzburg (Course No. 511.047). Fall 2021, Fall 2022, Fall 2023.</small>
 - _Principles of Systems Engineering._ Lecturer.<br />
