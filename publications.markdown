@@ -28,7 +28,7 @@ A complete list of my publications can be found on my [Google Scholar](https://s
 
 ## Theses
 
-- Kocher. _Scalabe Similarity Queries over Complex Data_. Cumulative dissertation. University of Salzburg, 2021. [5-page Summary PDF](phd-thesis/5p-summary-thesis.pdf) [Full PDF](phd-thesis/thesis.pdf).
+- Kocher. _Scalabe Similarity Queries over Complex Data_. Cumulative dissertation. University of Salzburg, 2021. [5-page Summary (PDF)](phd-thesis/thesis-5p-summary.pdf), [Full (PDF)](phd-thesis/thesis.pdf).
 - Kocher. _Top-k Tree Similarity Queries_. Master's thesis. University of Salzburg, 2017.
 - Kocher. _Efficient Algorithms in Relational Database Design_. Bachelor's thesis. University of Salzburg, 2014.
 - Kocher and Tannerberger. _Network Management with SNMP in C++_. Diploma thesis. HTBLuVA Salzburg, 2008.
