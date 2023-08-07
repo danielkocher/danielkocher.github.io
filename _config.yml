@@ -27,6 +27,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   </p>
 
   <p>
+  <a href="/publications/">Publications</a><br />
+  <a href="/teaching/">Teaching</a><br />
+  <a href="/community-service/">Community Service</a><br />
+  <a href="/personal/">Personal</a>
+  </p>
+
+  <p>
   <strong>Contact:</strong><br />
   <a href="https://www.plus.ac.at/computer-science/?lang=en">Department of Computer Science</a><br />
   <a href="https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en">Faculty of Digital and Analytical Sciences</a><br />
@@ -40,13 +47,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   <small>dkocher <em>at</em> cs <em>dot</em> sbg <em>dot</em> ac <em>dot</em> at</small><br />
   <small>dkocher <em>at</em> cs <em>dot</em> uni-salzburg <em>dot</em> at</small>
   </p>
-  
-  <p><strong>
-  <a href="/publications/">Publications</a><br />
-  <a href="/teaching/">Teaching</a><br />
-  <a href="/community-service/">Community Service</a><br />
-  <a href="/personal/">Personal</a>
-  </strong></p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
