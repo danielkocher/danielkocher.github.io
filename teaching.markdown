@@ -60,6 +60,10 @@ Finally, I gained international teaching experience by teaching at the Mohammed 
 
 ### Bachelor's Theses
 
+- _32-Bit Support for Bit-Precise Modeling of RISC-V Code._<br />
+  <small>Patrick Weber. University of Salzburg, Ongoing (since 2023).</small>
+- _Automated Witness Extraction for Bit-Precise Modelins of RISC-V Code._<br />
+  <small>Bernhard Haslauer. University of Salzburg, Ongoing (since 2023).</small>
 - _Design and Implementation of the Chip-8 Architecture._<br />
   <small>Michael Lenort. University of Salzburg, Ongoing (since 2023).</small>
 - _A Practical Introduction to RDMA Programming._<br />
