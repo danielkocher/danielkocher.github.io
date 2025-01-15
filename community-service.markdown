@@ -10,7 +10,7 @@ permalink: /community-service/
 
 I am/was member of the following committees:
 
-- - Availability & Reproducibility Initiative (ARI) of the [ACM SIGMOD International Conference on Management of Data (SIGMOD 2024)](https://2024.sigmod.org/).<br />
+- Availability & Reproducibility Initiative (ARI) of the [ACM SIGMOD International Conference on Management of Data (SIGMOD 2024)](https://2024.sigmod.org/).<br />
 - Artifact Evaluation Committee (AEC) of the [ACM International Conference on Object Oriented Programming Systems Languages and Applications (OOPSLA) 2024](https://2024.splashcon.org/).<br />
   <small>Committee member</small>
 - Availability & Reproducibility Initiative (ARI) of the [ACM SIGMOD International Conference on Management of Data (SIGMOD 2023)](https://2023.sigmod.org/).<br />
