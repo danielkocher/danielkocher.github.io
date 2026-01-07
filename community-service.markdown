@@ -11,7 +11,7 @@ permalink: /community-service/
 <p>I serve(d) as reviewer at the following conferences:</p>
 
 - [International Conference on Very Large Data Bases (PVLDB) 2026](https://vldb.org/2026/)<br />
-  <small>Light load reviewer. Until March 2026.</small>
+  <small>Light load reviewer. December 2025 - March 2026.</small>
 
 <p>I serve(d) as reviewer for the following journals:</p>
 
