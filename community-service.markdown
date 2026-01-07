@@ -43,26 +43,26 @@ permalink: /community-service/
 
 <p>Moreover, I am/was regular member of the following committees:</p>
 
-- Faculty Council at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) (since 2025)<br />
-  <small>Regular member</small>
-- Steering Committee at the [Department of Computer Science](https://www.plus.ac.at/computer-science/?lang=en) (since 2024)<br />
-  <small>Regular member</small>
-- Admission Committee [Computer Science Master's Programme](https://informatik.cs.plus.ac.at/academics/masters/) (since 2023)<br />
-  <small>Regular member</small>
-- Curriculum Committee [Computer Science Bachelor's and Master's Programme](https://informatik.cs.plus.ac.at/academics/) (since 2022)<br />
-  <small>Deputy member</small>
-- Department Council at the [Department of Computer Science](https://www.plus.ac.at/computer-science/?lang=en) (since 2022)<br />
-  <small>Regular member</small>
-- Habilitation Committee of [Dr.-Ing. Martin Schäler](https://dbresearch.uni-salzburg.at/people/schaeler) (2022)<br />
-  <small>Regular member</small>
-- University Professorship Committee in Computer Engineering (2019)<br />
-  <small>Regular member</small>
-- Habilitation Committee of [Dr. Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/index.html) (2015)<br />
-  <small>Regular member</small>
+- Faculty Council at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en)<br />
+  <small>Regular member. Since 2025.</small>
+- Steering Committee at the [Department of Computer Science](https://www.plus.ac.at/computer-science/?lang=en)<br />
+  <small>Regular member. Since 2024.</small>
+- Admission Committee [Computer Science Master's Programme](https://informatik.cs.plus.ac.at/academics/masters/)<br />
+  <small>Regular member. Since 2023.</small>
+- Curriculum Committee [Computer Science Bachelor's and Master's Programme](https://informatik.cs.plus.ac.at/academics/)<br />
+  <small>Deputy member. Since 2022.</small>
+- Department Council at the [Department of Computer Science](https://www.plus.ac.at/computer-science/?lang=en)<br />
+  <small>Regular member. Since 2022.</small>
+- Habilitation Committee of [Dr.-Ing. Martin Schäler](https://dbresearch.uni-salzburg.at/people/schaeler)<br />
+  <small>Regular member. 2022.</small>
+- University Professorship Committee in Computer Engineering<br />
+  <small>Regular member. 2019.</small>
+- Habilitation Committee of [Dr. Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/index.html)<br />
+  <small>Regular member. 2015.</small>
 
 ## Internships & Mentoring
 
-- Austrian Research Promotion Agency (FFG) (2017)<br />
-  <small>Internship host</small>
-- Mentoring Program for 1st-year Students (2017-2019)<br />
-  <small>Advisor</small>
+- Austrian Research Promotion Agency (FFG)<br />
+  <small>Internship host. 2017.</small>
+- Mentoring Program for 1st-year Students<br />
+  <small>Advisor. 2017-2019.</small>
